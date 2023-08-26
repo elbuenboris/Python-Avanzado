@@ -1,0 +1,6 @@
+Pedido:
+Número de pedido: 1
+Cliente: 2
+Producto: 3
+Precio: 500.0
+Gracias por su compra!
